@@ -1,0 +1,24 @@
+IP
+--
+195.179.193.138
+
+DNS RECORDS
+-----------
+A
+MX
+SPF
+DKIM
+DMARC
+
+PORT
+----
+SMTP - 25
+SMTPS - 465
+
+SMTP COMMUNICATION
+------------------
+ HELO / EHLO
+ MAIL FROM
+ RCPT TO
+ DATA
+ QUIT

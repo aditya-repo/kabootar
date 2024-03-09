@@ -1,0 +1,30 @@
+{
+  "name": "kabootar",
+  "version": "1.0.0",
+  "description": "Custom mail server for individual domain",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya-repo/kabootar.git"
+  },
+  "keywords": [
+    "Email"
+  ],
+  "author": "Aditya Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya-repo/kabootar/issues"
+  },
+  "homepage": "https://github.com/aditya-repo/kabootar#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1",
+    "nodemon": "^3.1.0",
+    "smtp-server": "^3.13.3"
+  }
+}
